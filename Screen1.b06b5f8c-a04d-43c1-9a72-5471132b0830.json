@@ -24,13 +24,13 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(255, 255, 255, 1)",
+            "backgroundColor": "rgba(255, 0, 0, 1)",
             "borderRadius": 20
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
         "TranslucentStatusBar": false,
-        "StatusBarColor": "rgba(0,0,0,0.53)",
+        "StatusBarColor": "rgba(0, 0, 0, 0.53)",
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
@@ -39,7 +39,7 @@
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "BackgroundColor": "rgba(255, 255, 255, 1)"
+        "BackgroundColor": "rgba(255, 0, 0, 1)"
     },
     "children": [
         {
